@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você pode ver alguns dos meus projetos,
 
 ## Sobre Mim
 
-Sou desenvolvedor de software com experiência em **C**. Trabalho com desenvolvimento de aplicações web e automação de processos
+Sou desenvolvedor de software com experiência em **C**  e **Pyhton**. Trabalho com desenvolvimento de aplicações web e automação de processos
 
 ## Conecte-se Comigo
 
@@ -13,4 +13,5 @@ Sou desenvolvedor de software com experiência em **C**. Trabalho com desenvolvi
 ## Tecnologias que uso
 
 - C
+-Python
 - FortNet
