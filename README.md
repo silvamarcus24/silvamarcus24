@@ -1,4 +1,4 @@
-# Olá, eu sou Marcus Vinicius! 👨‍💻
+# Olá, eu sou Marcus Vinicius! 
 
 Bem-vindo ao meu perfil no GitHub! Aqui você pode ver alguns dos meus projetos, aprender mais sobre minhas habilidades e ver o que estou fazendo atualmente.
 
