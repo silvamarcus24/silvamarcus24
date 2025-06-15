@@ -9,4 +9,7 @@ Majoring in Systems Analysis and Development (4th/semester) and Majoring in Info
   <a href="https://www.linkedin.com/in/marcus-vinicius-292059252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+### Languages
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") In learning, intermediate level English
 
