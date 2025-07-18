@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 **Marcus Vinicius da Silva Alves**
 
-Majoring in Systems Analysis and Development (4th/semester) and Majoring in Information Systems (1st/8th semester).
+Majoring in Systems Analysis and Development (4th/semester) and Majoring in Information Systems (2st/8th semester).
 
 ### Stacks
 [![My Skills](https://skillicons.dev/icons?i=python,c,cs,css,html)](https://skillicons.dev)
