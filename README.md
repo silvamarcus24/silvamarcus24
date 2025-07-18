@@ -3,7 +3,7 @@
 Majoring in Systems Analysis and Development (4th/semester) and Majoring in Information Systems (1st/8th semester).
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=python,c,cs,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cs,css,html)](https://skillicons.dev)
 
 ### Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
