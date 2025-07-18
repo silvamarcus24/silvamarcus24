@@ -1,5 +1,7 @@
 ## 👨🏻‍💻 **Marcus Vinicius da Silva Alves**
 
+```Automation, AI & Data```
+
 Majoring in Systems Analysis and Development (4th/semester) and Majoring in Information Systems (2st/8th semester).
 
 ### Stacks
