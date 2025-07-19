@@ -7,6 +7,10 @@ Majoring in Systems Analysis and Development (4th/semester) and Majoring in Info
 ### Stacks
 [![My Skills](https://skillicons.dev/icons?i=python,c,cs,css,html)](https://skillicons.dev)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvamarcus24&hide=tex&layout=compact&theme=dark&repo=github-readme-stats" />
+</a>
+
 ### Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") In learning, intermediate level English
